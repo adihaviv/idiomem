@@ -1,5 +1,5 @@
 # Understanding Transformer Memorization Recall Through Idioms
-This repository contains dataset of idioms for probing memorization in pretrained LM. "[Understanding Transformer Memorization Recall Through Idioms](https://arxiv.org/abs/2210.03588)".
+This repository contains dataset of idioms for probing memorization in pretrained LMs. "[Understanding Transformer Memorization Recall Through Idioms](https://arxiv.org/abs/2210.03588)".
 
 
 ## Datasets
