@@ -1,0 +1,852 @@
+{"idiom":"for crying out loud","id":"1a817c02cff2bb96da5e","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"turn a blind eye","id":"b05e010ca3576fbf6e81","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get to grips with","id":"3fc547c5c6ff82414ed4","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"grind to a halt","id":"a4a685a759bf64fcfcf8","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"let bygones be bygones","id":"ca6709254d9ba146d986","source":"EPIC","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"every man for himself","id":"27642042881772d30f95","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"sign of the times","id":"990ab4d0131058f4f13e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"at the end of the day","id":"0b3366f10125330ca394","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"come to terms with","id":"5f2ffb8c0f006f7746eb","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"with a view to","id":"09dce6abba8508a64397","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"in the long run","id":"5d25e1171453e85f7d96","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"keep a low profile","id":"b6be25f2b85dea2d254c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"tell it like it is","id":"4acb44a069ed9bc2a831","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"sing the praises of","id":"c45c1d6680632578dbd3","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"rub someone up the wrong way","id":"c930865d79b437870993","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"in the driving seat","id":"32bfaa1f8fb724d8ae97","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"fall by the wayside","id":"0c374594354590de27a0","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"to the tune of","id":"4c3dbe176acf00189fb5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"take someone's word for it","id":"0ec7c2c44c99bab42621","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"on the spur of the moment","id":"b95de4af1d17bd263f0d","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"the grass is always greener","id":"0166aa76890a6ece5fdf","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"from rags to riches","id":"6b21b733d7aa4954cac4","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"in no uncertain terms","id":"d3052b26b53aaad3c90d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"read between the lines","id":"eb1b300b7c7d58778ca3","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"lead someone up the garden path","id":"7bfad6e4117edf01d68c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"for the time being","id":"2a019b7355b41dc9f097","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"take a dim view of","id":"b639ad40ce0307a30b08","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"all in a day's work","id":"b838ad09763730dc0e6e","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"at a snail's pace","id":"52e1ebc80b48320067c2","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"go hand in hand","id":"a48a096e34f8774a66dc","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"play hard to get","id":"716e8a32a73975adaea6","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"grin like a Cheshire cat","id":"2aeb79786a95d20461c7","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"at a loose end","id":"b41525a6b7d777f72f2d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"come to think of it","id":"dd84d27597f61440c12d","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"to all intents and purposes","id":"6b603ad365892231dff4","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"back to square one","id":"c9087fd2f6295eaf7333","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"kill the goose that lays the golden eggs","id":"0ded6af647f3aa65a14c","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"fall on deaf ears","id":"32216885c332f4e447be","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"by hook or by crook","id":"62c5541aea4e3084a65f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"go from strength to strength","id":"a36c081069f23384768b","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"in this day and age","id":"117f3e4a0ffb00a06afd","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"fight tooth and nail","id":"aa6b153e3f11bf8639f5","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"wipe the floor with","id":"534162182a90b5af2fde","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"come to grips with","id":"54d253d1af128c8cd5fe","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"pull out all the stops","id":"7d181d0a7668b58772cd","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"keep a lid on","id":"e6ecbf95cd7c909f3113","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"few and far between","id":"59ff987cd4430ad78e2f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"great minds think alike","id":"ccc418bda431d1c37951","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"all hell broke loose","id":"2fab6adbd1b70093bca0","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get the better of","id":"987ec9dd838f79f8cfb6","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"high as a kite","id":"1bb338cac86341ca6f2c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make head or tail of","id":"31f8322d4e2a29eeff66","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"as luck would have it","id":"ce9bf82a51dd14dbf62c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"err on the side of","id":"4a5ee885048576e59eaf","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"your guess is as good as mine","id":"f5a39276811f680fc96e","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"bring the house down","id":"b3223a3d9c891fcba965","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"follow in someone's footsteps","id":"fc3e8d5b117f04b237ec","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"set the wheels in motion","id":"fb650756bf91ad70bfc1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"sign on the dotted line","id":"2bd4b2ed267ef8c1ccc1","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"pour cold water on","id":"fea9b476fc440987de84","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"break the back of","id":"ec9fe9aeaeda04919ef5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"for the hell of it","id":"89bd1bfc8849bb7d84e0","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"hold the purse strings","id":"01799e512519c20314aa","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"fall between two stools","id":"26b730a9168a5f6c82b6","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"smoke like a chimney","id":"6c3326f37f4e521ac647","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cuckoo in the nest","id":"4ca351211744d609aed9","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"beat swords into ploughshares","id":"cde00cafd988c36b84eb","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"add insult to injury","id":"a0d5de17ffc82adc8dd3","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"as the crow flies","id":"0cc86b16139afdff68b9","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"been there, done that","id":"336098fe3d00927069be","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"pay through the nose","id":"fdcf7c5afcfff007eb6e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the die is cast","id":"f6e66e45b7c47a1c84ec","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"from the cradle to the grave","id":"571a3c0ee8a1fdd084f9","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"take the bull by the horns","id":"b2ccdd714f4522712be1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"over my dead body","id":"2747f3cfaeab88c67d3b","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"at the drop of a hat","id":"e80d747c76fd2c8266cf","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"grin and bear it","id":"9313b923c96159ebf91a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"let your hair down","id":"c5bdd29e54aa4256709a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"put a sock in it","id":"dcacb7b61ea62cca501c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"when push comes to shove","id":"8ebb6f78b7c255eec5ea","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"call a spade a spade","id":"fcf5202476e75d39bf58","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"easier said than done","id":"30b4d6f0fc8829e4c406","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"stick out like a sore thumb","id":"f6f53ca079d2abda656e","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"between the devil and the deep blue sea","id":"d4c0b8dd5f37815ea908","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"in one ear and out the other","id":"c04ce7209ab9421794de","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"keep your fingers crossed","id":"488979b77550dfe9d919","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"knock someone's socks off","id":"fcea005ed0f077e0c9c0","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"you can't have your cake and eat it","id":"2cee633c10c88125d4bd","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"the icing on the cake","id":"572a0442021364e6b0cd","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"no two ways about it","id":"b3d37448337eff965ae1","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"within an ace of","id":"70d50d309a044f0505e5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"through thick and thin","id":"13fc3b1dde73b1452e9e","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"take it or leave it","id":"c1969f373888ffef97d2","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"till the cows come home","id":"332c37a9dcad73bf7c5c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"get in on the ground floor","id":"41036a92064f1d4aa7d5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"kill two birds with one stone","id":"3fd1972eb08b289602be","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"put your oar in","id":"b8002c958ee9f0ec8751","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"under lock and key","id":"98b348166fc72eedd789","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"keep the wolf from the door","id":"7a8bab8237ea81982f3e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"hit the nail on the head","id":"618e0e225bd4bfee8c8e","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"blood is thicker than water","id":"a93d3e73d8c121bf4962","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"in the lap of luxury","id":"ffed93737a6994edacae","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"in black and white","id":"9b38d56ed436a1b137fb","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"come rain or shine","id":"8621acd89f75e026dcc4","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"by no stretch of the imagination","id":"60bdee0e5675cb857418","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"stand up and be counted","id":"1de36d6192dc36666c8b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"look on the bright side","id":"4662c7aa152752f825f8","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"fall on stony ground","id":"5ab8f62fd52e75795845","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"when the chips are down","id":"215cd38171d46517430f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"come hell or high water","id":"1ca4a3ccccbc68dbeabc","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"bite off more than you can chew","id":"c3d4dd8c8a8f18818e39","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"have no truck with","id":"341dffc0283f07e521e1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"throw down the gauntlet","id":"37e5a12235dd7cfefa51","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"run something up the flagpole","id":"4b1d982b25ff432f6c85","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"rake over old coals","id":"34debfd41aedee2669ff","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make a mountain out of a molehill","id":"61cdaa2f98fa1083023f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the rest is history","id":"5f6ed7310dee98f09067","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"leave no stone unturned","id":"5e73cccab6ea7a0ecece","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"at sixes and sevens","id":"06e223df430144dc8e3c","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"put a damper on","id":"06f54a44099868a49939","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"throw cold water on","id":"526b37dbcdd95a7845f9","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"there's no such thing as a free lunch","id":"3692f4cc06d20249d1ae","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"out of thin air","id":"94481aa89cae10ce6e58","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make a clean break","id":"ad45cb354b748574ed49","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"when all is said and done","id":"371bb90088e6f3cb6740","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"back to the drawing board","id":"d79ef730c20d6422726b","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"play fast and loose","id":"6b1ed1691c22bc9c45ff","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"draw the short straw","id":"cd1f2e10f148dbcfb6f8","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make short work of","id":"43f8cec7d7c698f77cf0","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"pull a rabbit out of a hat","id":"95d15abb5e08c7201e21","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"wipe the slate clean","id":"895355fc03b44c97bed2","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"all things being equal","id":"2c00b9e8c6499a82e341","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"nudge nudge wink wink","id":"94c78677a3c2e7b79af3","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"set your sights on","id":"430d345159ad32472462","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"dressed to the nines","id":"8aca44c291ab59b31624","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"fall off the back of a lorry","id":"cef519cd929b5afd52f2","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"flat as a pancake","id":"4657101b1fc80745da59","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"wouldn't hurt a fly","id":"5873ccc025c5278ef48b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"see eye to eye","id":"1af640b245e46f66ac59","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"in the wink of an eye","id":"985df4ddc7dc1266408f","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"curiosity killed the cat","id":"09cc1c6738d26691404f","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"no smoke without fire","id":"6ba2dbf32b612a71a093","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"chickens come home to roost","id":"7c95d4ab9d90dbc42c18","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"put words in someone's mouth","id":"4c9d986b90f3ac9d73ee","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"put your best foot forward","id":"3da13349a6358371a2f9","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"wither on the vine","id":"8cc7cae8e09a1859337c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"better late than never","id":"fbf0710f8a58a16a59f3","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"in the nick of time","id":"7ac9d001068576cd9e79","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"put your foot down","id":"49b4429cc85503b3df1c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"keep your options open","id":"2caf366b55fbfafd2086","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"plain as a pikestaff","id":"8c758787d03d47dd3037","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"move heaven and earth","id":"90532875e699893e41c1","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"take a leaf out of someone's book","id":"0fe7f23004064265b3a8","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"pull a fast one","id":"87fce07be858d7e964a1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"look before you leap","id":"a07bf6dd19cacb26f74a","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"burn the midnight oil","id":"bfbdf4f82d79c2174901","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"only time will tell","id":"8ce34ed5a5d03be85e9e","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"rest on your laurels","id":"c2f354c995438b16b492","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"look the other way","id":"6bd8504fb394dbe85524","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"stand the test of time","id":"8db4a1aa823af21e2e46","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"bark up the wrong tree","id":"f96bf73614e55b023145","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"jack of all trades","id":"a6ada2c70966a938cdb4","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"friends in high places","id":"5625cd17db0255cd0639","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"come up smelling of roses","id":"1a3141e768ef20384359","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"separate the wheat from the chaff","id":"23251447de26ae2b622e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"put the cart before the horse","id":"b99f0e0506466d6d934e","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"take the wind out of someone's sails","id":"43304f682ac94b57013e","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"take the rough with the smooth","id":"5f3d51768b58f4f8cc74","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"you scratch my back and I'll scratch yours","id":"9282d44f3192dbb8d1a2","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"between a rock and a hard place","id":"089e21d78b6aef12bf11","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"every trick in the book","id":"2320a12cccf678f2142b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"fly in the face of","id":"06097c95e96826784376","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"dead as a doornail","id":"b9bf3faa366ea862e771","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"to the nth degree","id":"5323a758021d5591cc84","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"from pillar to post","id":"0f126ea14a16cf7852fb","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"have your work cut out","id":"79b4309cda1a550db9ac","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"every nook and cranny","id":"f8f1a59233df2cb5fe7a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"everything but the kitchen sink","id":"c4b3e76bcd672bf0479b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"too clever by half","id":"a5b0e31cf267988c2698","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"better the devil you know","id":"ea9bdd2e8107750fab2e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"make light work of","id":"783dc6cd72f0dfd103e1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"turn over a new leaf","id":"0e3f82f8b0d7a061d741","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"public enemy number one","id":"19daa8fdf7f4af414e33","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"out of sight, out of mind","id":"027e6c779deba400714f","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"beggars can't be choosers","id":"fceea99c4bb9b86b9908","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"keep a straight face","id":"da39ce86744e1570c0df","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"like a bat out of hell","id":"d73640b9ebdb9d115c3f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"neither fish nor fowl","id":"a395e3fa20895096eb5f","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"in the blink of an eye","id":"2c52f2c811deb1ff4f38","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"by a long shot","id":"48e0bde32296d02a6c57","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"all bets are off","id":"ce2fefff2deaa0b29840","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"no time like the present","id":"2eacdfbe9028d444d6d1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"in the fast lane","id":"aad500a8848894c98171","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"start off on the wrong foot","id":"e7a5c59d968720b69d1d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"throw the book at","id":"fafe85afb6b4fb2e2255","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"don't hold your breath","id":"b5bb529609d02ae538d3","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"it takes two to tango","id":"d427dfcb691843e95437","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"add fuel to the fire","id":"d3defffb19469b37a6b5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"sick as a parrot","id":"b0117bc748d35fe2dc73","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"by leaps and bounds","id":"a458108913a795b2dba4","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"once in a blue moon","id":"ac72594c1851fb40c2bf","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get your teeth into","id":"2a35a6916515b42f0ef6","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"throw caution to the wind","id":"b692387736c040c6eaf9","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"throw your weight around","id":"860664d6cdbaae735373","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"batten down the hatches","id":"433c46dc359775d95b8a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"flog a dead horse","id":"c496610992928cb4994a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"wake up and smell the coffee","id":"5e7f85fe31d6faf4620d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"press the panic button","id":"f6c7afc5aec6eecfb19c","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"come in from the cold","id":"07c5869a8dbeaa06e940","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"dead to the world","id":"3a8ec177ea7f5b153eda","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"bite someone's head off","id":"e7764ab58be5317eaef4","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"think outside the box","id":"b40a4de090e49d13c316","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"burn the candle at both ends","id":"8b6a2d36ad53e06dafeb","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"cut the Gordian knot","id":"b400a067bbe6be030651","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"leave someone in the lurch","id":"b34a750e512842c82ff6","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"throw good money after bad","id":"e66fd2dc98e36991d221","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"you can't teach an old dog new tricks","id":"7e67fda8a438d62fe33f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"pass the time of day","id":"b929a2021f8c03cc8283","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"away with the fairies","id":"deb5c29b49f01a5dd331","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"prick up your ears","id":"24afafdc885470fc97ae","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"give someone a bloody nose","id":"4d10df2f185a83b2249f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cast pearls before swine","id":"df97e489f4461d277b38","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"rub someone the wrong way","id":"d1ee70e683b1258c905b","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"have a mountain to climb","id":"7e90fc7a0c5d68543f85","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"put the kibosh on","id":"b6d94b3b35f77598199f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"what goes around comes around","id":"0f240e302591b8ed40fd","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"by the seat of your pants","id":"a8a540d74b3f4fb2a172","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"never the twain shall meet","id":"7ca267ced385e1a3234e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"once bitten, twice shy","id":"e6251398fe233daa98be","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the buck stops here","id":"efe7a0171be26a16c7a8","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"two heads are better than one","id":"65f90f9a2cc68f75720a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"get on like a house on fire","id":"1f82bc741c83e7cc3fa2","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"put the cat among the pigeons","id":"db7d2a5913309936c304","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"keep your powder dry","id":"a8a40e633f5d4c2ac22e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"bring home the bacon","id":"64b2a726242fb9dadb82","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"send someone to Coventry","id":"0fb3fa0e6159957adeb5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"shoot from the hip","id":"9d4a5ce0fa7b9c7376b1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"keep your chin up","id":"cbc85b3db3e72598e289","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"put up or shut up","id":"b89e4e6a1013f2b5f9a5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"hold all the aces","id":"807dc9ef803740e7485f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"don't give up the day job","id":"30a535a456e01d3bef22","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"on a silver platter","id":"db72114a7a14941f5056","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"give as good as you get","id":"10c2df5cb5fa6b048e29","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"nothing to write home about","id":"f44d26c0ee983cbbc1da","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"take a shine to","id":"7d376e36a1e67ed9d62a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"get a handle on","id":"59f57db095b387fedbf1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"you could have knocked me down with a feather","id":"ad52b90fcdb92ea11d76","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get down to brass tacks","id":"9921ae606ebe81f97125","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"better safe than sorry","id":"d1fd09d41335f4f47041","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"put your cards on the table","id":"23000dd558641e622155","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"no rest for the wicked","id":"5a5f9eb32c3314b8cb5d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"push the panic button","id":"64a562d2122238b8fd34","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"go down like a lead balloon","id":"ea72c62265c88443d76d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"in the driver's seat","id":"fc3f345a57a36b353de3","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"asleep at the wheel","id":"6cafb5c3e48bd411a2b7","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the ball is in someone's court","id":"98f17a4c40a2d3ca378e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"eat your heart out","id":"a31b906c9db9022c9c86","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"not to be sneezed at","id":"0b4d94dd33540b3e9d5d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"straight from the horse's mouth","id":"86bef329d8cdfec11b39","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"draw a bead on","id":"345ffe8270b4af4b9907","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"dog in the manger","id":"259830c0852e70a77a42","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"sweep someone off their feet","id":"3b9a32229f865de17da5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"jump down someone's throat","id":"6c0d431a6666c7744f56","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"not just a pretty face","id":"38507a91bcb1d6d47796","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"do the right thing","id":"0cff9d7d81ebdfcee3d3","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"beat the daylights out of","id":"13cf949a8d7f922cc28a","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"put the moves on","id":"f64eaaecf3b0efb56324","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"let the genie out of the bottle","id":"2f69c3bbca27a5705fa2","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"let the cat out of the bag","id":"7c8a05a9f2eed4c22233","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get your skates on","id":"87f77def8fda3afab25b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"close but no cigar","id":"64cc65ad7169b623e60b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"snap someone's head off","id":"1b6db5d4792b39ff4943","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"still waters run deep","id":"e059e198db90a7396ce4","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"too many cooks spoil the broth","id":"1e912f58f6038f4eb55d","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"take the gilt off the gingerbread","id":"991ca3d4244520757cc3","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"shuffle off this mortal coil","id":"ac9940bfad29507e768f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"throw the baby out with the bathwater","id":"12896838053594bea09a","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"in for a penny, in for a pound","id":"93400baa3d267f717ddc","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"not to put too fine a point on it","id":"333f01d5a8cb60f025e4","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"give someone a piece of your mind","id":"209f0cd3f99a7cdd51b6","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"from the horse's mouth","id":"b1e1a562d7ae859ea21a","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"come down the pike","id":"3de4e47c293764a7a1f3","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"keep your nose to the grindstone","id":"931b6395504656f78167","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"thumb your nose at","id":"fafad5aa25d39f442e54","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"fish in troubled waters","id":"6441445987c9b95cd3aa","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a little bird told me","id":"d17f7709d96b392a3a9c","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"day in, day out","id":"7537827c4228a03e07ca","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"dead as a dodo","id":"b9bf3faa366ea862e771","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"go the extra mile","id":"6518cba9dcb70bee87f0","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"start off on the right foot","id":"3631f3bad4d2b3d0a5a5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"time and tide wait for no man","id":"3ce76109951889560bc5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"warm the cockles of someone's heart","id":"1c739b5db4ed670c4e77","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get your feet wet","id":"0876e28aebc8c4daeb9d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"kick against the pricks","id":"bd029251356f6ef338b9","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"by the skin of your teeth","id":"70b96edc5528fc91dd65","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"not bat an eye","id":"376c8a2775179a899e5d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get a rise out of","id":"697aa9d4accacc393b94","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"keep your head above water","id":"95d05564eb55b7952cca","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make a night of it","id":"7bca55d0569a8868b468","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"draw a line in the sand","id":"ab42afb92b955e746d9b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"blow the lid off","id":"f5c15b25049ff5b80acb","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"it's all Greek to me","id":"789eddfb2d3be2b73d43","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"dot the i's and cross the t's","id":"15a66d8fb3197924e870","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"haul someone over the coals","id":"c9ae2a5bdd53936fc93f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"separate the sheep from the goats","id":"b9c5b515a7090581dedc","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"put your heads together","id":"f409ce218536077ce11c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"speak of the devil","id":"a84e918d4015f8ce9329","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"have a tiger by the tail","id":"e9e7bfab026f4a666568","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"spare the rod and spoil the child","id":"72c40c97f49dec8b87e9","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"waste not, want not","id":"1b5f0113485b0ee2e48f","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"it never rains but it pours","id":"f91a6b6f8e77509f161a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"rain cats and dogs","id":"512c484c106ff9b7e7d7","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"bury your head in the sand","id":"b11030f1c4271461b8d1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make money hand over fist","id":"8017cf592cbe87bec97f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"have a bun in the oven","id":"38f1cd8ac3dbc67a273b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"throw your hat in the ring","id":"3af8d7fcbb75f70cdcb5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"put the screws on","id":"781a03079e897e1d1ecb","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"kill the fatted calf","id":"e3224e7f4f540c761c31","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"there's no fool like an old fool","id":"fdfdce9727145775dae7","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"all dressed up and nowhere to go","id":"cbadca84f90d7a014dab","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"keep your nose clean","id":"529402b562c58e07866f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a dime a dozen","id":"c2015e1f9bdc62d11028","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get your act together","id":"84722bfe11ae35b70e2a","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"give someone the benefit of the doubt","id":"13b3dd3fac7fb3279c9e","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"go back to the drawing board","id":"3200064346a6ddc8c832","source":"ep_as_part_of_a_sentence","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"it's not rocket science","id":"764e5d0dea94bb7f4084","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"let someone off the hook","id":"1b3524f68e542f379413","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make a long story short","id":"625f220581246f0ad6a8","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"no pain, no gain","id":"b53e3ffc985cbc9e8313","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"so far so good","id":"4ae69c19be59b583252e","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"the best of both worlds","id":"e6e093d55d0e993a36ce","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"to get bent out of shape","id":"6a0719afa3f95caef9c6","source":"ep_as_part_of_a_sentence","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"to make matters worse","id":"804f6bcf2181e9f6e4d5","source":"ep_as_part_of_a_sentence","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"we'll cross that bridge when we come to it","id":"6ccece788318b4b198b6","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"a bird in the hand is worth two in the bush","id":"6550146dc8cdb29dc8a2","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a penny saved is a penny earned","id":"4f33502664b7f75d0838","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a picture is worth 1000 words","id":"7b360aa51a43f554af29","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"actions speak louder than words","id":"7954f7879ff6a5e40518","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"barking up the wrong tree","id":"9c5325d49e601ed33890","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"birds of a feather flock together","id":"3e6d04ea6b5aeefee604","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"comparing apples to oranges","id":"3c4e0673315d414c0064","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"costs an arm and a leg","id":"7080c39b4a4923d8902a","source":"ep_as_part_of_a_sentence","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"do something at the drop of a hat","id":"d39e29b64ddbaf17c8d0","source":"ep_as_part_of_a_sentence","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"do unto others as you would have them do unto you","id":"d0436cb09e8d9a49b7f3","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"don't count your chickens before they hatch","id":"ef157db9716f88380f32","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"don't cry over spilt milk","id":"1767fceea0aa8de087b6","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"don't give up your day job","id":"e0753e12e1be9c898d3f","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"don't put all your eggs in one basket","id":"9a6859a45c51e614b2d6","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"every cloud has a silver lining","id":"22b7b3cb25accb951028","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"get a taste of your own medicine","id":"366cebab0b9689683f2c","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"give someone the cold shoulder","id":"34b5b1a077ad6c8ff853","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"go on a wild goose chase","id":"8144019a5e1d9ec4520b","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"good things come to those who wait","id":"a8489ba6004dd0061e23","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"he has bigger fish to fry","id":"b6379b1482b6b7e30412","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"he's a chip off the old block","id":"b81ccc41f3afebffa06b","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"it ain't over till the fat lady sings","id":"377033aadf40006ecc33","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"it takes one to know one","id":"7617cc51f4a484b14625","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"it's a piece of cake","id":"b5a87b6ba158e6f4d165","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"it's raining cats and dogs","id":"ec8ad2f9bc8d63dbf4c7","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"saving for a rainy day","id":"539a1223e66c9c32bb35","source":"ep_as_part_of_a_sentence","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"slow and steady wins the race","id":"5a3d5893f40fc1699329","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"take a rain check","id":"190ffaae7eb1724b346a","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"take it with a grain of salt","id":"e09e1efdf23b0ef75753","source":"ep_as_part_of_a_sentence","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"the ball is in your court","id":"164825b40ad28db6271e","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the best thing since sliced bread","id":"2238962e727cfaf6b612","source":"ep_as_part_of_a_sentence","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"the devil is in the details","id":"2d07e7afd92747ddeb72","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the early bird gets the worm","id":"3abcc5c171d403a2ed5c","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the elephant in the room","id":"8edc3eacddfb77dd4c5e","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the whole nine yards","id":"81b4dc666522937a122c","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"there are other fish in the sea","id":"40598d698a884d45650d","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"there's a method to his madness","id":"fe447e144bf7477965c3","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"you can't have your cake and eat it too","id":"573e38fbfd8140794be2","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"you can't judge a book by its cover","id":"28a317fbf514dc30faf0","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a little learning is a dangerous thing","id":"0c595f0e50803b33771e","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"a snowball's chance in hell","id":"d90ac45801b46c08fe35","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a storm in a teacup","id":"3b1c6b21ea56444a3641","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"an apple a day keeps the doctor away","id":"1589c464d8ec7078a728","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"an ounce of prevention is worth a pound of cure","id":"018179c93aa86f335425","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"calm before the storm","id":"1ff91b59c3bc831a6861","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"don't beat a dead horse","id":"d5266a430d6e3153539a","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"every dog has his day","id":"990298de85e3b0624a45","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"have your head in the clouds","id":"720f8c6cb2ba57316b0f","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"he who laughs last laughs loudest","id":"85f430d7a50d5e9eb127","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"hear something straight from the horse's mouth","id":"a10a3e815186c262b794","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"he's off his rocker","id":"b9512da341490bbeced1","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"it is always darkest before the dawn","id":"0cbf6944e4c334c783d7","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"know which way the wind is blowing","id":"d4a80c2ea6fb93affff7","source":"ep_as_part_of_a_sentence","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"like two peas in a pod","id":"b058551e0733fb014fb7","source":"ep_as_part_of_a_sentence","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"make hay while the sun shines","id":"d4a2da3943cc93861e33","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"shape up or ship out","id":"499b0365270e39e6ae3e","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"that ship has sailed","id":"9f7f384b1f96e30d99b1","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the pot calling the kettle black","id":"8c9ec3c12f388d2f525b","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"there are clouds on the horizon","id":"0a407502dc070b477dd6","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"those who live in glass houses shouldn't throw stones","id":"447e05be6a5d3a771a53","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"we see eye to eye","id":"41aad5d0ebaaf882d66b","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"when it rains it pours","id":"70107fcb0b4b1b9566c7","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"you can catch more flies with honey than you can with vinegar","id":"3f645bde25c1a473ea74","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"you can lead a horse to water, but you can't make him drink","id":"70fa00626c983d8496b1","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"you can't make an omelet without breaking some eggs","id":"916cddfb0e5daf74dc36","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"keep up the good work","id":"7028e618fdeb4559f5ed","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"not in a million years","id":"baa79bf3e0266919d7af","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"between life and death","id":"9ba83e4acba606dc4c8a","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"for love nor money","id":"2548643dfb2311bcc529","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"just what the doctor ordered","id":"b876742c599aed2a61a8","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"in the cold light of day","id":"047adf9025f3e7f0a3c1","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"in the wake of","id":"a8b58c0aa5e6504676bf","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"the letter of the law","id":"7797deab3f10939cec12","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the men in grey suits","id":"7ce86436bed81d1de83e","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"the spirit of the law","id":"5177eda6bc7969a07437","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"middle of the road","id":"786020a73cec8d550948","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"caught in the crossfire","id":"4739d05e01d224335a21","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a breath of fresh air","id":"e0cd19afcdbe6948d7e0","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"a clean bill of health","id":"f3761a7d42d2320609a0","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a new lease of life","id":"052d85b90636dccf1c5c","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"in the heat of the moment","id":"04df2d60675b3b2799c7","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a fate worse than death","id":"7e63d6f90e0c5c183d28","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"a fish out of water","id":"bb1484aa9de733f15c95","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a flash in the pan","id":"0765383e5f9e1ab30f8f","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a fly on the wall","id":"3ff7618ea104746f9790","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a foot in the door","id":"bd8d7dcd2aadddd3ec3d","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a safe pair of hands","id":"c27f89ad15148ea98450","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a sight for sore eyes","id":"d06cba4bffd01d5f7d87","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"a slap on the wrist","id":"c51cc8fffe240b66593c","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"absence makes the heart grow fonder","id":"2913b15c8aa4e5583026","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"as high as a kite","id":"47f0aea93d315b22d94b","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"stranger things have happened","id":"4190b82d5a3c6c528685","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"it's a small world","id":"13663ccdeef4d7a9496d","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"give credit where credit is due","id":"60a119d699760c7ad4f7","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"the straw that broke the camel's back","id":"1aea43ee62345a12c66e","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"you reap what you sow","id":"0a1af2e834b829720eee","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"turn a deaf ear","id":"2a2032541c9c1c3ce629","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"finding a needle in a haystack","id":"bdf8f306a8c9aefe80b9","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"see light at the end of the tunnel","id":"60cbd980d62885699401","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"don't look a gift horse in the mouth","id":"d842371c78d3e8a81831","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make hair stand on end","id":"1ec362439a1c7e649d90","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"taste of your own medicine","id":"6a5240a1e75e41e2d173","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a fish rots from the head down","id":"bcb792e6d71a67eb6d4f","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"know like the back of your hand","id":"92e44a4766bf1610baf2","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"have finger in too many pies","id":"f1a855368737fdc308a0","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"no pain no gain","id":"96400dbb6b5c7699506a","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"there's no smoke without fire","id":"c0095561ca8bbcbf046f","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"its raining cats and dogs","id":"f0bcf0caab38719ad819","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"have two pennies to rub together","id":"06f3990348405865191e","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"be glad to see the back of","id":"8cda047c8e3c6e611060","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"to rub salt in the wound","id":"6e68f56940f467ee300d","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cr\u00e8me de la cr\u00e8me","id":"10b641f5b432c3e2f6ec","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"in an extremely blissful state","id":"d4d078d30b1e82824424","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"don't count your chickens before they've hatched","id":"43fc72ac0e34ab7dbee2","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"feeling a bit under the weather","id":"75901512fe8bb18c0d4f","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"talking to a brick wall","id":"28053b21e625b340930f","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"packed (in) like sardines","id":"63c545db4e92cc540e0d","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"to be at the end of one's rope","id":"f9956b614010ed7a34d9","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"hard work never hurt anyone","id":"8e1560d79751a823fba2","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"the odd one out","id":"8cbdc65cbc829b9d1a8e","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"having to start all over again","id":"f5f0efe9c067c898a45f","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"that's the heart of the matter","id":"0909615095f194f214ef","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"to have your cake and eat it, too","id":"023a18e7892c97b2b20d","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"hear it on the grapevine","id":"e2437888ec44d42ceab5","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"to place the cherry on top","id":"0a022e848739e26f0ec3","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"make a bad situation even worse","id":"bf6145a9239d9fb6faf8","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"caught with one's hand in the cookie jar","id":"b28a2c759c6ea9d994f3","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"by hook or crook","id":"e26274a508e3fbe26288","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"wouldn't be caught dead","id":"8ac256c2a80ba831f8c8","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"don't toot your own horn","id":"19f44f8ba9145d0b79a9","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"snake in the grass","id":"46906c8c00e76cd768d9","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"rome wasn't built in a day","id":"f858efbec3281487574f","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"to paint the town red","id":"19b4c87f38ccc3e45aa9","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the shoemaker's son always goes barefoot","id":"9b52fce1f1a4b594ecd4","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"savings set aside for future use","id":"b0b093ff7efa980550c5","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"misfortunes never come singly","id":"62d80d451982679302e9","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"tough nut to crack","id":"9adcdea5601a51f59e46","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cross that bridge when you come to it","id":"65f648c3eacedf48e9f1","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"not playing with a full deck","id":"e8fda5ccf6b6d5cde3a3","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a person who really talks too much","id":"e889f8dc4c4be91a10bc","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"the apple doesn't fall far from the tree","id":"34daef3324ebe8a83c5d","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"for a very long time","id":"1593088ee3e32f639385","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"it's greek to me","id":"c69288248ea9d011332c","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"to be green with envy","id":"1ab19f2652e23c548ed7","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the ends justifies the means","id":"98025c6ccbf6135086de","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"walk on thin ice","id":"b47cabbf0c227d5c44af","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"beat a dead horse","id":"92f9953aaa4b985dbf3a","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"three sheets to the wind","id":"9461b95a44ea2c621545","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"to bite the dust","id":"6b2daa1df5d87f95a642","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"lose one's train of thought","id":"c0b3f194dcf60ee0414b","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"throw a spanner in the works","id":"f7d4e3ddd2a316b080a8","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"can't judge a book by its cover","id":"236fbe7b8bdf89961c11","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"on the pig's back","id":"221f4cb7abcfa83099dc","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"have an ax to grind","id":"644bb1f8e18710c3f7c0","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"pull the wool over one's eyes","id":"5d12f03b47980d17469b","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"come a long way","id":"6191f9cebbfb10cfc020","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"a bitter pill to swallow","id":"b6b44548cbc4d08dd0af","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"cry over spilt milk","id":"1c1c139e9dd5271efe98","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"virtually impossible to find","id":"9abedad0ec3344ac3830","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"united we stand, divided we fall","id":"88253840aac7b1cb1485","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"pull the cat's tail","id":"5b0c5d712424f99ae938","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"tomorrow is another day","id":"75be89b396d093a9eedb","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"all that glitters is not gold","id":"100c7cbc6cea09a3b9f7","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"off the beaten track","id":"fe84139f13c00ae4a06f","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"head for the hills","id":"22798fdd1aba4969ede7","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"bring up the rear","id":"d954bbd5498efcf88fdf","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make your blood boil","id":"ddc7986197f6ae97d28f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"put the boot in","id":"86542bd17170f5cb0b8f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"paint the town red","id":"62f8ddd5088ea69fba36","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"in the short run","id":"06ae627cabea20781631","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"lay down the law","id":"78f19ba3a6b89d302d6c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"put the wind up","id":"77ef9a38901c54c44f7b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"cog in the machine","id":"8cba0bd402266a395044","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"quick as a flash","id":"214246a5883515dce3e7","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"in the final analysis","id":"c75199ddc38ec1f61f2b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"beat about the bush","id":"4f8e9ec2bd52ef4d962f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"foam at the mouth","id":"26142d687e2268e48c53","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"sit on the fence","id":"1a9e45b1115d65b2b03b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"stand someone in good stead","id":"5d226b1150d0937a6882","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"on the face of it","id":"ce926079fdc28705d061","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"pick up the pieces","id":"cbe593d82f5bff0f8bca","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"economical with the truth","id":"b3adbeb24c32937d6d29","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"blow hot and cold","id":"2b9e7e888594d43c63f7","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"ahead of the curve","id":"663cc0979d9afd50ae8b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"dyed in the wool","id":"3c466f2673ad5d1396e5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"licence to print money","id":"acf3bf823588430d6f4c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"water under the bridge","id":"6c7aa98ae692598c0cb8","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the joke is on someone","id":"cc3a7003432eeb01dc6b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"state of the art","id":"e2495c956e0f2d9a3a4c","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"wet behind the ears","id":"0fb2b03eff836057c30b","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"rise to the occasion","id":"b3742f3bc9229e463c8c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"keep your pecker up","id":"94e119ba7791f833cb7d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"turn something on its head","id":"ee5abeb22835bb4f09ae","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"as the actress said to the bishop","id":"6431e244c14403954acb","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"hair of the dog","id":"a284c633153a526843fd","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"step on someone's toes","id":"1cc91c4e2a20ba74a472","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"eat like a horse","id":"472f60cd4c74ea354634","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"wide of the mark","id":"23443c2221479c8dcd41","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"pie in the sky","id":"14ceec27c6d44912231b","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"do a number on","id":"ef741a0ffd8a1b0028dc","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"from the word go","id":"a939204e965da0c27622","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"too big for your boots","id":"a1bed898cc6c3d671097","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cast your mind back","id":"ed381f5f122e7561007e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"sure as eggs is eggs","id":"66f067c2b7d54cb01ad3","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"boys will be boys","id":"b09656e7ca98aa5e73a8","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"jump on the bandwagon","id":"74530d7be7631a5ea527","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"kick up a fuss","id":"c8e24cddcfcfce316e67","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"any port in a storm","id":"bcb6afb3f70fb359924a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"nine times out of ten","id":"646d40f2d3a848ee30c2","source":"EPIC","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"stick your neck out","id":"7e793f2f257758ee2255","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"go down the wrong way","id":"a85ead6df8f59de86b12","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"talk out of turn","id":"7382553f45a85e2f6a5c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"in the family way","id":"d98a2cba2386837517fd","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"work like a charm","id":"5c7c1bcb954970a49054","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"come to a head","id":"ee866ff8cfd96993ac0e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"saved by the bell","id":"8d549a9467e079e34d2e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"deaf as a post","id":"db8e5290587d7e84176a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"put a foot wrong","id":"9b3c2eaa0aa33995ae0e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"fit as a fiddle","id":"615dcd9db1cdfbd8be2b","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the ayes have it","id":"e5d3b641eb02be010f75","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"that makes two of us","id":"ccad013322aa6168cbe3","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"strike while the iron is hot","id":"7e1b4cea95e751e05242","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"flash in the pan","id":"f087666a2215ca779d44","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"rise from the ashes","id":"83b748fda673ec29c500","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"have a screw loose","id":"9f36add5c1e311bb10b1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get away with murder","id":"0edeb880cb9f567668b2","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"breathe down someone's neck","id":"09964cb508233766effa","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"easy on the eye","id":"9bd2094344c2d7f5aa3c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"slip through the net","id":"c231102bdb482eb61278","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"neck of the woods","id":"a457a9de72e18d54c496","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"hot under the collar","id":"e68116ccbd18cf27aa72","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"play into someone's hands","id":"f5e8ad2fb75f243e79fd","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"come out in the wash","id":"091f19e4a9e2ccb5e132","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"light at the end of the tunnel","id":"5a2763ea630f97842f79","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"weak at the knees","id":"2a40385992b5c0252727","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"power behind the throne","id":"51d7eaa3d1cc96df7f4d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"as good as new","id":"f1959f8a49b48fcfa8e8","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"bang for the buck","id":"a684ca3f861cba1de9bd","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"let's be having you","id":"2518bb3ed7666e33d708","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"at a loss for words","id":"75a8b361b397af90e7b1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"run out of gas","id":"03bfd97997b10a036a2e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"place in the sun","id":"4dc527bba4301ae2b14b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"drive someone up the wall","id":"a85df31b195f10fa4a39","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"have an eye for","id":"aefee130431c600b66ed","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"do someone's head in","id":"7c32e71a986b0a7de83b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"grist to the mill","id":"b985c208926760f8b43f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"dead in the water","id":"1db66019188e9410902e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"sleep like a log","id":"b0684152834e9618b6f1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"slip of the pen","id":"ef3abe9c2aab03c85543","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"not a pretty sight","id":"8a8c4daa3b0eb53b0266","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"paper over the cracks","id":"08605ddbc5a33c6ef32f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"swear like a trooper","id":"e693e7ab2ff7961d392d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"bounce off the walls","id":"db6728a58a06bd9e5f34","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"think the world of","id":"a535579cd1463fe39335","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"broad in the beam","id":"4863c635338dce310498","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"different strokes for different folks","id":"92ee5876f3937c058e3c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"ride for a fall","id":"7a3b0c4157e415201b04","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"reach for the stars","id":"7673e7de73644550006f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"armed to the teeth","id":"f9bb1b9145306a69b196","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"throw in the towel","id":"716eda4cfc206eb4e024","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"see the light of day","id":"6356b0795edd59b11c47","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"easy as falling off a log","id":"ff57c3123e63c4f09818","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"shut the door on","id":"f3a9ce2cb5ab4538cfa7","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"cock of the walk","id":"403f18d5e5019af00a93","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"straight from the shoulder","id":"ca4cddc99717fdf792c1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make a pig's ear of","id":"f51d8b4976b08105c613","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"share and share alike","id":"f39f3120e22f5beba267","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"laugh all the way to the bank","id":"49a49896a40844755c3f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"have a foot in both camps","id":"986accac0d454e27f563","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"swim against the tide","id":"40189275f06a56c9979b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"let sleeping dogs lie","id":"e549a0d42ee18ff72252","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"sail under false colours","id":"22aff9efeb5a8872a90b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"laugh like a drain","id":"9bd0db35275d7ee3c18e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"slap on the wrist","id":"5ab04c1b32c96ff22753","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"fight fire with fire","id":"bc450b7e77187a3faaa2","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"make a meal of","id":"d26922f5b00c5724b1c6","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"lay a finger on","id":"2a20aa73f1f362236a74","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"go round in circles","id":"416f6d9ba5681d5a7889","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"jobs for the boys","id":"72604c9e05d855e29b98","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"live and let live","id":"fbad821f8ddd6576891c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"make a monkey of someone","id":"5df1b1639c719ad59647","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"everything in the garden is rosy","id":"07d2cb823d8eae06052c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"you pays your money and you takes your choice","id":"a0e23c66bbfc9d0b9f94","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"one in the eye for","id":"1b0bc8643079211e382c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"birds of a feather","id":"8fe0fa8981be2bc10214","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make a virtue of necessity","id":"953a7d721749351572a7","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"play to the gallery","id":"b6ab9b2e75560ecf51bb","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"sell like hot cakes","id":"293177c7bbcd8b7cc036","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"drop someone a line","id":"a673fccf2d4be9b8725a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"smell of the lamp","id":"a37e8baa767601a70e75","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"hang by a thread","id":"6ce7a05e2bf4bd5eb9f5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"mutton dressed as lamb","id":"bd6eabefdbefd7025dcb","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"I'll eat my hat","id":"70a97fb043f15c282886","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"upset the apple cart","id":"3a904fa7e35796fb77a7","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the whole shooting match","id":"447740faf8ee85aa3857","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"put someone in mind of","id":"b3bd8fd789331ce3a113","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"poor as a church mouse","id":"59b35f8924ccb3226ebd","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"on the horns of a dilemma","id":"93e5bd13d39bb694afc1","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"tough as old boots","id":"ddab0c75326c2590454a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"kiss and make up","id":"606acf397fd8cf98a4a6","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"on your high horse","id":"56900dbbafd92bb8d073","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"one good turn deserves another","id":"2018fb30712ee9e45ba0","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"rise through the ranks","id":"5231d5440aa5a7b35e33","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"joined at the hip","id":"16ef85014d02faf79b9a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"long in the tooth","id":"58cc2568f8954a90ef3d","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"build castles in the air","id":"2cef7dee4c4260bed6b8","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"put your foot in it","id":"70afd10af233128ea9a3","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"turn the other cheek","id":"a4dbbc58d90b725760fc","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"sick as a dog","id":"b0117bc748d35fe2dc73","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"sail close to the wind","id":"c51a6155cb9241999c87","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"kick over the traces","id":"f80c0bc9c97e8814c0e2","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"fit to be tied","id":"d854814e8a0ec903e08c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"gone with the wind","id":"1e8f6f8fbc1a28edef84","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"throw someone to the wolves","id":"71bdc21c1cb803a24db0","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"clean as a whistle","id":"33215c3ee9320267096c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"up hill and down dale","id":"b0f6782d8e3e4c6a34aa","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"pour oil on troubled waters","id":"555830107163a842259d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"see a man about a dog","id":"de82f53b64d49596b8a0","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"keep body and soul together","id":"c8de325fb3c9bcdd3433","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"fly off the handle","id":"335e31eaa4f067a5a415","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the world and his wife","id":"bec46581c149676c1316","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"snug as a bug in a rug","id":"762686b529d7a4c346a1","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a penny for your thoughts","id":"745e94d29de416e691e3","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"be left holding the baby","id":"8ed9810ef84420b990c9","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"have other fish to fry","id":"298287dcc4c069b8bfd5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"nutty as a fruitcake","id":"6df34e4f3be73508a438","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"par for the course","id":"c0bdc39984e84daa557c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"strain at the leash","id":"0ceb6fd699cddff6b7d9","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"poor little rich girl","id":"e9f35a5c716afcb2edd1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"man of the cloth","id":"2d8572f0db0a7d7102cc","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"sweat like a pig","id":"b1f03efd983c583d3c3e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"like peas in a pod","id":"0b8564a439a626c3de76","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make heavy weather of","id":"d0029f64a5002aafba22","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"drunk as a lord","id":"9688c52ff892f7736697","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"like a bear with a sore head","id":"70634a23a34282e4a9d2","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"kick up your heels","id":"67a2f2baf59708bac8fa","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"pushing up the daisies","id":"97e186b790b7015764a1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"to beat the band","id":"4f4d675f9ffb0a3ca9d4","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"before you can say Jack Robinson","id":"2d1111502fd2e3cf4acc","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"talk nineteen to the dozen","id":"3f54f37b1fbb22034b86","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"stick in your craw","id":"a7ec657dc52c6c3fcb5e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"fit like a glove","id":"46fe7450ecf95e5c8bb9","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"eat someone out of house and home","id":"a7a44213379650adb6aa","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"discretion is the better part of valour","id":"4112a313605efd7af246","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"all over bar the shouting","id":"6444f3f0c92c8c0b6184","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cut your coat according to your cloth","id":"61fae7ed7d48b232ba15","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"reds under the bed","id":"72cbee44c9e5ace565fb","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"hit the right note","id":"f4f681b26fff9c802723","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"silent as the grave","id":"3678e522117aa83f81a0","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"not miss a trick","id":"42de90f1b7eb9fe5af34","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"long time no see","id":"0dc9b6a539266e9d133f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"champ at the bit","id":"98978fdd2101576e032d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"push the boat out","id":"a0ed2fad100fef52f700","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"talk of the devil","id":"878cf562a865d828dfc2","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"charity begins at home","id":"03c0aad63ce4acdded5c","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"have someone's guts for garters","id":"9be640d07c486b56789a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"hook, line, and sinker","id":"574e33c760901c5b6881","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"not worth the candle","id":"0062e73a0fd48b4e098a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"right up your street","id":"0284ddf57c70d4ae4294","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cut from the same cloth","id":"b6999ae41e6278385adf","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get your hands dirty","id":"481934334c2db0f72621","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"tread on someone's toes","id":"119537ea873e28bf3325","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"like father, like son","id":"15f8f2cbc841e0322ec1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"stick to your guns","id":"5e0f65f628e555515e29","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"bite the big one","id":"2ebac74a762d0ae9bce8","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"not know you are born","id":"09af20581f1ce0abd12c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"stubborn as a mule","id":"86294ca913f2aaca906a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"turn up like a bad penny","id":"039181320c3ef39e56a7","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cruising for a bruising","id":"56c4924fbf8e3bbb7b78","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"prop up the bar","id":"d314c28efbb0284e1a76","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"run before you can walk","id":"904181118c025aa9ea5d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"hit the ground running","id":"9e0ef09fd83bdebc642b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"lie through your teeth","id":"9bcc23f7e56719183c00","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"tell tales out of school","id":"07b384f6cf497bace79f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"rough around the edges","id":"85f901ed1116fc963643","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cast the first stone","id":"ab06b3cc5e77b4b653a7","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"up a gum tree","id":"27fa521920efd161cda1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"an Englishman's home is his castle","id":"b44568e5bdfc20599801","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"run into the sand","id":"d48750698f789670e5e3","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"keep your eyes peeled","id":"c1c9db76e5a609fd5248","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"make bricks without straw","id":"190444e9d6673c57c140","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"every dog has its day","id":"d249fe202aac89a579c1","source":"MAGPIE","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"bring someone to book","id":"b1837c6259d4ea5343b1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"ask for the moon","id":"cfbf722c88cfecaa27f8","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"die on the vine","id":"2189eefd5e092c3b1146","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"work your fingers to the bone","id":"e4f4a7d4ae98cf6ea73d","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"rob Peter to pay Paul","id":"e68647d64b4a2a7e0346","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"whistle in the dark","id":"65fb3b9a88baf067033c","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"drink like a fish","id":"5c63d6dd7039d8844df3","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"thin as a rake","id":"01c791f41792f43f3f93","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"come with the territory","id":"756b200f67b4740932e5","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"come out of your shell","id":"2c7dc046b7f605738969","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"handsome is as handsome does","id":"6bd5115fb0cd82048240","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"full of the joys of spring","id":"e097066628503540cb69","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"use a sledgehammer to crack a nut","id":"ce439e835b69e3379a85","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"roll up your sleeves","id":"6b04562e8ed26fbbc996","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"have the hots for","id":"c533f71a71a6b10694d7","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"hit someone for six","id":"771feac0aa44aa153375","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"too many chiefs and not enough Indians","id":"847b9bdf588a57c665c9","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"more haste, less speed","id":"5e4ea6118e1c1126266f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"shipshape and Bristol fashion","id":"f661d6372893792b3c92","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"put your shoulder to the wheel","id":"99853a02556d58d852c7","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"come to a pretty pass","id":"819f261473ef6fdcc689","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"swim with the tide","id":"8057afa2b73279f0064b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"carry a torch for","id":"7fa1b149852aad7e8fc1","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"could eat a horse","id":"507a6d8f14deb3e8042b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"roll with the punches","id":"9ddcc83c5437af02cd0a","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"fire in the belly","id":"a9bbbf96f9ef8e590d43","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"beard the lion in his den","id":"64bf757b1f6f16c54c2e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"no peace for the wicked","id":"402b38f7df77e025549e","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"lock the stable door after the horse has bolted","id":"6b3d94433c765a116fba","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"let someone down gently","id":"296cd6194d7f46307e22","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"something nasty in the woodshed","id":"469a61aff636886aa323","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"see which way the cat jumps","id":"7df043fd44ef9a74cc39","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"blow your own trumpet","id":"99b761eee2fbe9a0a411","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"from stem to stern","id":"ba2a24bd983617ecdb04","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"have someone by the short and curlies","id":"d30adaf766c07f52cb6f","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"keep your eye on the ball","id":"1ddb3e4a4fad40807839","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"knock someone's block off","id":"e2639e7ad541a0a9d679","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"quiet as a mouse","id":"1dd4fb49eba4e35ba140","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"spread yourself too thin","id":"aaa436131d86a9822131","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"practise what you preach","id":"3f376b69595247248292","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"ring off the hook","id":"05f4ddc76be5277ef83b","source":"MAGPIE","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a blessing in disguise","id":"c45721580eff7493fc7e","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"beat around the bush","id":"279be6b1b69464d7675a","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"call it a day","id":"4e2dc2865919c303f726","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"cut somebody some slack","id":"9e9fb4e5b87f0e0dcc76","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get out of hand","id":"1cc6c3204bd3b8245895","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get something out of your system","id":"d80261d64187cf0f9fc2","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"that's the last straw","id":"a87ac8b07ae0c8424bc0","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"time flies when you're having fun","id":"0bd79fe6aadad4cfb7f8","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"wrap your head around something","id":"ce21d6a9e4e8d8ca3223","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"you can say that again","id":"d46833a7753471e114c0","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"put something on ice","id":"ff060ea17cece2700d3d","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"rain on someone's parade","id":"849d197bf06b41103f85","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a stitch in time saves nine","id":"699b46b76fe043660362","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"as right as rain","id":"a094be8bca3197f36067","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"bolt from the blue","id":"3ae47277f0c9169d0995","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"fortune favours the bold","id":"9a94ea230fa248290f6b","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get a second wind","id":"d1b68c754e9c59c25925","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"get wind of something","id":"b953c6c781ff0a00b149","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"go down in flames","id":"143d3f3983c7d0c4b328","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"he's not playing with a full deck","id":"81f84c0041b560e1c5e9","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"he's sitting on the fence","id":"1ad44a0b0fea2e9e8d80","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"it is a poor workman who blames his tools","id":"0319af384e69dc5c0956","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"like riding a bicycle","id":"904793fb016dde454d0e","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"out of the frying pan and into the fire","id":"5293bbd39a73def2567c","source":"ep_by_itself","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"run like the wind","id":"3114e61c9a41632b42cb","source":"ep_as_part_of_a_sentence","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"well begun is half done","id":"234701228c6cad38d622","source":"ep_by_itself","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":false}
+{"idiom":"bright as a button","id":"aea2f76ae8d29467094d","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"pain in the neck","id":"0c4717b63ff4eb1187b7","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"salt of the earth","id":"3ea835837f815e458b63","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"in the best of health","id":"27744b3d0ad3f01f3c55","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"in the eyes of the law","id":"d5c9ca3236ae9a9ce45d","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"to a fine art","id":"14d2b361b81a9e72895f","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"man in the street","id":"e85e91279a39a4f95655","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"money for old rope","id":"d31025fa5e8b7525fbd4","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"white as a sheet","id":"564f4969deb2e22dddd0","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cream of the crop","id":"e9a2d7d78f7a19678b0d","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a whole new ball game","id":"36d1710d41c237fd0d72","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"an act of war","id":"6142c3f4df5925d585a8","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"an arm and a leg","id":"b1a82aa8b1e099d8e1c9","source":"EPIC","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"an eye for an eye","id":"9c0788e2a30ed5f129b1","source":"EPIC","prompt_comp_ind":true,"similarity_ind":true,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"as poor as a church mouse","id":"f36cc4349965bae69fca","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cock and bull story","id":"ca6b4bc392357de72ec4","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"icing on the cake","id":"0cca489a96271b65f9c3","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a load of cobblers","id":"69a0c720c30fb8b524d8","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a shot in the dark","id":"10c54f3393cde022edb3","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"first come first served","id":"cb12d86e31f30d46bfe5","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"hold on a second","id":"959033c7d18fa04c225e","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"son of a gun","id":"2949f615bd791e615701","source":"EPIC","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"put salt on his tail","id":"e4acf0a4bf0502817067","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"one card shy of a full deck","id":"2334255cfe358a3ec42e","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"be in seventh heaven","id":"104e23aea33ccede6fb4","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"pull someone's bacon out of the fire","id":"5a4c486603ffc8ec12d1","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"butterflies in my stomach","id":"17393f74fdfb555cef7f","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"look like a million dollars","id":"4365c696fdfd6ed01df6","source":"LIdiom","prompt_comp_ind":true,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":false}
+{"idiom":"be happy when a person leaves","id":"0421dc9a24d66dc28293","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"up a creek without a paddle","id":"84ad608879020c047d49","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"you can bet your life on that","id":"8f3cfc98fdc90ec40fcc","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"red in the face","id":"b23059d518713894d32b","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"hold your tongue back","id":"8e6bcd9c2914285c1f6c","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"land on one's feet","id":"9da1bc9460c531267feb","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"the forbidden fruit is the sweetest","id":"c3771be18af0e9a1a632","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cut to the chase","id":"7d39dd1a7afc164e1e9e","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"talk the hind legs off a donkey","id":"c8c00600d020afea9f39","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"east or west, home is best","id":"784eb36c3eb581638a00","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"don't wash your dirty laundry in public","id":"3e6e64e1c0ed2d5ed3a3","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"arm and a leg","id":"f541b4b9217ea97cc909","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"made your bed, now lie","id":"260ace6c7361d8835f48","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"old chicken makes good soup","id":"92fc3bde57733a7129bc","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"tip of the iceberg","id":"a30a20e94e2b0c5a6390","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cat got your tongue","id":"8369899e9795f690fd20","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"neither a borrower or a lender be","id":"779be26b86317dc4da7d","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"while there is life there is hope","id":"8f1c5cf3bdfcdae8e80b","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"bet your bottom dollar","id":"7f23a47b98bd47b654d5","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"dumb as a post","id":"8158a8f6b4cc793eb39b","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"all sizzle and no steak","id":"6dfc22d426f6a92694d1","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"all the way to egery and back","id":"edcf8b59886a4ab25de4","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"not a spark of decency","id":"da69fb79706343a5e53a","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a skeleton in the closet","id":"cde5466837125990ec70","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"lose sleep over it","id":"e7b4097972df8a12163c","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"penny for your thoughts","id":"7077eeeebf2ee14d7f6d","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"picture paints a thousand words","id":"b6edfa913ed5a3728def","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"method to my madness","id":"4b8b95f11d6efd660fbb","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a voice crying in the wilderness","id":"9da9d43b78ec6feb746d","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"cast in the same mould","id":"8f62205fa58eff25bd86","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"as old as the hills","id":"50704ef4661ba7a07b59","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"roll up one's sleeves","id":"4302a2200b182757df39","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"company in distress makes sorrow less","id":"4673a154bc26b23495a6","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"your belly button is bigger than your stomach","id":"d6e438eb874b85635138","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"no flying from fate","id":"777bc78a647e843c486e","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"speak off the cuff","id":"dfa8921d0511a67b88ba","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"a friend in need","id":"df6d8f905d7cef4c5ad8","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"a cold day in hell","id":"8a890dbf2e38a48c2e39","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
+{"idiom":"it doesn't hurt to ask","id":"d7e3f5d478de483b2558","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"whale of a time","id":"b62b315afec0fd0e79ae","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":false,"hard_to_guess":true}
+{"idiom":"elvis has left the building","id":"e2f272621880216d7bcc","source":"LIdiom","prompt_comp_ind":false,"similarity_ind":false,"frequent_target_ind":true,"hard_to_guess":true}
