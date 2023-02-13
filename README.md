@@ -3,7 +3,10 @@ This repository contains dataset of idioms for probing memorization in pretraine
 
 
 ## Datasets
-IdioMem is a probe dataset of Englidh idioms for analyzing memorization behavior. The dataset is formated as a jsonl file, and can be found  [here](https://github.com/adihaviv/idiomem/blob/main/idiomem.jsonl).
+IdioMem is a probe dataset of Englidh idioms for analyzing memorization behavior In Language Models (e.g., GPT and BERT were examined in the paper). 
+
+The dataset is formated as a jsonl file, and can be found  [here](https://github.com/adihaviv/idiomem/blob/main/idiomem.jsonl).
+
 Details of the constraction of IdioMem and methodical approch for probing via IdioMem are described in the paper. 
 
 ## Code
