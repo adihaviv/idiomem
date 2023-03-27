@@ -15,12 +15,12 @@ Coming soon!
 ## Citation
 
 If you find this work helpful, please cite us
-```@article{Haviv2022UnderstandingTM,
+```
+@article{Haviv2022UnderstandingTM,
   title={Understanding Transformer Memorization Recall Through Idioms},
-  author={Adi Haviv and Ido Cohen and Jacob Gidron and R. Schuster and Yoav Goldberg and Mor Geva},
-  journal={ArXiv},
-  year={2022},
-  volume={abs/2210.03588}
+  author={Adi Haviv and Ido Cohen and Jacob Gidron and Roei Schuster and Yoav Goldberg and Mor Geva},
+  journal={arXiv:2210.03588},
+  year={2022}
 }
 ```
 
